@@ -157,7 +157,10 @@ npm run dev
 
 
 
-The application will be available at `http://localhost:5173`
+To run the Application
+refer
+https://abhinav-stack852.github.io/Data-Compression-And-Decompression/
+as deploy link 
 
 
 
